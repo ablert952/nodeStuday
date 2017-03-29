@@ -1,0 +1,6 @@
+document.onclick=function(){
+  alert('hello')
+
+}
+
+111111
